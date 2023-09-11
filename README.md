@@ -1,4 +1,4 @@
-# Wello World, welcome to my profile
+<img src="/assets/img/giphy.gif">
 
 ## Conecte-se comigo
 
