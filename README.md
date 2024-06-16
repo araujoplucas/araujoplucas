@@ -1,5 +1,3 @@
-<img src="/assets/img/giphy.gif">
-
 ## Conecte-se comigo
 
 <div> 
